@@ -2,6 +2,7 @@
 
 - C++17 standard.
 - Debug and release configurations for AVR ATmega328 boards.
+- Core libraries.
 
 ## Linux + Simulide
 
